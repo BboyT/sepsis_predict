@@ -1,0 +1,3 @@
+mimic-iv 
+Our code is a reference to the sepsis3 code definition from the official website.
+https://github.com/MIT-LCP/mimic-code/blob/main/mimic-iv/concepts/sepsis/sepsis3.sql
