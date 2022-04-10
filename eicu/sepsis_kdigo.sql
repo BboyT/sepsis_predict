@@ -1,0 +1,4 @@
+SELECT kdigo_stages_outday.patientunitstayid,kdigo_stages_outday.aki_stage_outday
+FROM sepsis 
+LEFT JOIN kdigo_stages_outday
+on kdigo_stages_outday.patientunitstayid = sepsis.patientunitstayid
